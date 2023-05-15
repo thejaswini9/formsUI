@@ -1,0 +1,51 @@
+.container {
+    background-color: #eafaea;
+    height: 120vh;
+    background-size: cover;
+
+
+}
+
+.form-heading {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: "Roboto";
+    font-size: 36px;
+}
+
+.error-message {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #dc3545;
+}
+
+.gender-field-heading {
+    font-size: 18px;
+    color: #212529;
+    margin-bottom: 10px;
+}
+
+
+.head {
+    color: black;
+}
+
+
+#captchaText {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIkP3amVNYP27ijZGVDOW8ED1MEvLPOFQrg&usqp=CAU");
+    font-size: 30px;
+    border: none;
+    outline: none;
+    display: flex;
+    font-family: Roboto;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    width: 150px;
+
+
+}
+
+#captchaEnter {
+    font-family: Roboto;
+}
